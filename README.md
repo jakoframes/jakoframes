@@ -3,6 +3,7 @@
 I make motion design with **Claude AI** — reels, 3D characters and animations
 built with code instead of a timeline.
 
+🌐 Portfolio: [jakoframes.github.io](https://jakoframes.github.io)
 🎬 Instagram: [@jako.frames](https://instagram.com/jako.frames)
 
 ## What I build
